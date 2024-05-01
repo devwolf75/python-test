@@ -1,0 +1,3 @@
+python-dotenv
+pytest
+pytest-html-reporter
